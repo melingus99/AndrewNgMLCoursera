@@ -1,6 +1,9 @@
 # AndrewNgMLCoursera
 All Assignments from Coursera Machine Learning Course
+(https://www.coursera.org/learn/machine-learning)
+
 Content of the exercises are as follow:
+
 1.-Linear Regression
   -Cost Function
   -Gradient Descent
